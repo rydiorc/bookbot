@@ -1,2 +1,1 @@
-# bookbot
-Criada como parte de um projeto do curso boot.dev
+BookBot is my first project!
